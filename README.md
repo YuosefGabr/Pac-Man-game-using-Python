@@ -22,7 +22,9 @@ python pacman_astar6.py
 ```
 
 ## Screenshots
+## Screenshot
 
+![Pacman Game](game.png)
 
 ## Author
 Yousef Gabr
