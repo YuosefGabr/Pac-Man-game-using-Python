@@ -27,4 +27,4 @@ python pacman_astar6.py
 ![Pacman Game](game.png)
 
 ## Author
-Yousef Gabr
+Eng\ Yousef Gabr
